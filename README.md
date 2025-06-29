@@ -1,4 +1,9 @@
-# Peacock Read - Book Rental Management System
+# PeacockBook Rental Management System
+
+![logo](https://github.com/user-attachments/assets/7eaab90a-14ed-49c6-9f1d-622a2492538d)
+
+
+https://github.com/user-attachments/assets/4df40f92-4a1c-4f74-b007-1879fcf642fa
 
 
 
